@@ -1,0 +1,5 @@
+{
+  "name": "Veritas Map Analyst 2.0",
+  "description": "High-precision map and text analysis tool using Gemini 2.0 Flash for maximum speed and accuracy.",
+  "requestFramePermissions": []
+}
